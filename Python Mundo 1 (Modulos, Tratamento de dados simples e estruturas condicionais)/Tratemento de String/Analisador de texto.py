@@ -1,0 +1,6 @@
+nome = input('Digite seu nome: ')
+print(f'O nome em maiuculo {nome.upper()}')
+print(f'O nome com todas letras minusculas {nome.lower()}')
+print(f'O tamanho total do nome é {len(nome.strip())}')
+lista = nome.split()
+print(f'O tamanho do primeiro nome é {len(lista[0])}')
