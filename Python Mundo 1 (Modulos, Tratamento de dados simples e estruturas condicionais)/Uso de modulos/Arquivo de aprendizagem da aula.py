@@ -1,1 +1,1 @@
-from math import
+print(ascii_lowercase)
