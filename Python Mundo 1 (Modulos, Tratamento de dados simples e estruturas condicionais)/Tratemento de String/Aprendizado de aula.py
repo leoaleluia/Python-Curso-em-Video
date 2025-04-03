@@ -7,6 +7,6 @@
 #strip = elima todos os espaços vazios do inicio e no fim
 #split = divide uma string
 
-nome = 'leonardo aleluia sampaio'
-lista = nome.split()
-print(lista)
+cidade = ('santo santo').title()
+lista = cidade.split()
+print('Santo' in lista[0])
