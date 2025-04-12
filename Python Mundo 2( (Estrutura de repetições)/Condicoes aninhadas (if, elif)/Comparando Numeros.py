@@ -8,5 +8,4 @@ if valor1 > valor2:
 elif valor2 > valor1:
     print(f"O valor {valor2} é maior")
 else:
-    if valor1 == valor2:
-        print(f"Os valores {valor1} e {valor2} são iguais")
+    print(f"Os valores {valor1} e {valor2} são iguais")
