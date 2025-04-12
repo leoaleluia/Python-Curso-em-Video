@@ -1,1 +1,1 @@
-Nesse Curso de python, esterei fazendo uma breve revisão para pode adentrar nos estudos mais profundo de python voltado para o BeckEnd.
+Nesse Curso de python, esterei fazendo uma breve revisão dos fundamentos na linguagem. Visando, assim, adentrar nos estudos voltado para o BeckEnd.
