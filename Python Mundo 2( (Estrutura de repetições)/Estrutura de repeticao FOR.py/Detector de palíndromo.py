@@ -8,10 +8,7 @@ for c in range(len(frase2)- 1, -1, -1):
    if frase2[c] == frase2[contador]:
       controle2 += 1
    contador += 1
-   
-   
 
-print(f"{controle2} contador, controle{controle}")
 if controle == controle2:
    print("Palíndromo")
 else:
