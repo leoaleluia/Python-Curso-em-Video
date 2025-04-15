@@ -1,0 +1,12 @@
+termos = int(input("Digite a quantidade de termos"))
+a = 0
+b = 1
+controle = 0
+c = 0
+
+while c < termos:
+    controle = a + b
+    a = b
+    b = controle
+    print(a, end=' ')
+    c += 1 
