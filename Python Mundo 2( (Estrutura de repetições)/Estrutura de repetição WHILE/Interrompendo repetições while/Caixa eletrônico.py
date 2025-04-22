@@ -22,6 +22,6 @@ while True:
         totNotas1 +=1
 
     if valorSaque == 0:
-        break
+        breakx
 
 print(f"O total sacado foi {valorSaque2}\nNotas de 50 {totNotas50}\nNotas de 20 {totNotas20}\nNotas de 10 {totNotas10}\nNotas de 5 {totNotas5}\nNotas de 2 {totNotas2}\nNotas de 1 {totNotas1}")
