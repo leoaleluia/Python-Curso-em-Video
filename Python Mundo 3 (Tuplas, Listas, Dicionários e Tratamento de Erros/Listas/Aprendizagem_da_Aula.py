@@ -13,3 +13,4 @@ lista.sort() #ordena a lista
 lista.sort(reverse=True) #ordena a lista de maneira reversa
 print(lista)
 print(lanche)
+
