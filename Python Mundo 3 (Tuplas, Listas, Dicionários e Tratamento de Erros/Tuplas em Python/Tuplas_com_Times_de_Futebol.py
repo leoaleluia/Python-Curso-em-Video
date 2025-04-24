@@ -5,7 +5,7 @@ for c in range(0, len(classificacao) - 15):
     print(f"{c + 1}º {classificacao[c]}")
 
 
-print(f"Os ultimos 4 Colocados são {classificacao[16:]}")
+print(f"Os ultimos 4 Colocados são {classificacao[16:]}") # ou classificacap[-4]    
 for c in range(16, len(classificacao)):
     print(f"{c + 1}º {classificacao[c]}")
 
