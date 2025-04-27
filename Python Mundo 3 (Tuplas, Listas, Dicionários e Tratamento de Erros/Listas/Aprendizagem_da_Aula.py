@@ -13,4 +13,8 @@ lista.sort() #ordena a lista
 lista.sort(reverse=True) #ordena a lista de maneira reversa
 print(lista)
 print(lanche)
+lista.insert(0, 5) #Insira na posição 0 o número 5, o indice do númeo 4 passa a ser 1 e o do 11 passa a ser 2
+del lista[1] #elimina o valor do indice 1
+lista.pop() #elimina o ultimo ítem, mas podemos passar um indice como parâmetro
+lanche.remove('11') #nesse caso colocamos o valor do indice, o que ele armazena.
 
